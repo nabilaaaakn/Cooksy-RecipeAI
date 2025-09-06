@@ -1,5 +1,0 @@
-streamlit
-pandas
-python-dotenv
-huggingface_hub
-scikit-learn

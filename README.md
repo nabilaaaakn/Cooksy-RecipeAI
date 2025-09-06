@@ -14,7 +14,7 @@ Dengan dukungan **Large Language Model (LLM)** [Meta Llama 3.1 - 8B Instruct], C
 
 ## 🚀 Demo
 Aplikasi bisa dicoba langsung setelah dideploy di **Streamlit Cloud**.  
-*(link akan muncul setelah deploy)*
+https://cooksy-ai-temanmasakmu.streamlit.app/
 
 ---
 
